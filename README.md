@@ -1,9 +1,11 @@
 # Plant-Disease-Detection-And-Remedies
 
-Overview
+Overview:
+
 This project aims to leverage machine learning to detect plant diseases from images and suggest appropriate remedies. It provides an efficient solution for farmers and gardeners to maintain healthy crops.
 
-Features
+Features:
+
 Disease Detection: Uses deep learning models to identify various plant diseases from leaf images.
 
 Remedy Suggestions: Provides curated remedies and treatments for detected diseases.
